@@ -1,0 +1,13 @@
+numpy
+pandas
+keras
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow
+tensorflow-estimator
+tensorflow-hub
+tensorflow-io-gcs-filesystem
+anvil-uplink
+boto==2.49.0
+boto3==1.24.46
